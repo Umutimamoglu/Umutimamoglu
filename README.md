@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [HayKip](https://play.google.com/store/apps/details?id=com.hope.haykip)
 
-- 🌱 I’m currently learning **Kotlin , Java , Room**
+- 🌱 I’m currently learning **Kotlin , Java , React-Native**
 
 - 📫 How to reach me **umutimamoglu19@gmail.com**
 
